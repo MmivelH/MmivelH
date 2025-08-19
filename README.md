@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://imgur.com/a/sD90l7f"  />
+<img align="right" height="150" src="[https://imgur.com/a/sD90l7f](https://imgflip.com/gif/a3jzuu)"  />
 
 ###
 
